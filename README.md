@@ -1,5 +1,5 @@
 # QuickBillGroup
-Practice project done by Students
+Practice project done by a group of programming enthusiasts
 
 ## Motivation
 Assemble an application built on python programming language along applying a real world work framework environment
