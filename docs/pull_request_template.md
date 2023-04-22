@@ -1,8 +1,6 @@
-# Description
+# Description - Fix {Ticket ID or Name}
 
 {description}
-
-Fixes # {Ticket ID or Name}
 
 ## Type of change
 
