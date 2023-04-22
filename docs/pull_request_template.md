@@ -1,6 +1,6 @@
 # Description
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+{description}
 
 Fixes # {Ticket ID or Name}
 
@@ -23,7 +23,8 @@ Please delete options that are not relevant.
 - {Class.Method} > {Brief Description}
 - {Class.Method} > {Brief Description}
 
-# Install pip packages (place command line to execute - do not forget to add it at Readme.md after PR before merging)
+# Install pip packages
+## Do not forget adding commandline at Readme.md before mergin
 
 - {pip commandline}
 
@@ -37,3 +38,6 @@ Please delete options that are not relevant.
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I updated my local branch to have the lastest update from main branch ("master")
+
+# Additional comments:
+{comments}
