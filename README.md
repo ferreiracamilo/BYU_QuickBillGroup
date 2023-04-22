@@ -40,4 +40,4 @@ pip install pytest
 - PDF Invoice Generation
 
 ## Team
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camiloferreirafosalba/?locale=en_US)](Camilo Ferreira) Camilo Ferreira
+- https://img.shields.io/badge/style-camilo--ferreira-blue?logo=linkedin
