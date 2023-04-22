@@ -13,12 +13,12 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
-# What files or classes have been modified/updated/created? (along with a brief description if applies)
+# What files or classes have been modified/updated/created?
 
 - {Add/Remove/Update} {Class} > {Brief Description}
 - {Add/Remove/Update} {Class} > {Brief Description}
 
-# What methods have been modified/updated/created? (along with a brief description if applies)
+# What methods have been modified/updated/created?
 
 - {Class.Method} > {Brief Description}
 - {Class.Method} > {Brief Description}
