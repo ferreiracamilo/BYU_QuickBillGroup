@@ -11,6 +11,7 @@ Assemble an application built on python programming language along applying a re
 - Applying OOP pattern design
 - Implementing unit tests
 - Experimenting new dependencies and/or packages
+- Improve our english communication skills -team mebers don't share same native language-
 
 ## Application Objective
 Build an application to manage products, customers and orders ending up to generate invoices. Project may be splitted in different stages, most likely following planification below
