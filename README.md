@@ -1,9 +1,6 @@
 # QuickBillGroup
 Practice project done by BYU Students
 
-
-# QuickBillGroup
-
 ## Motivation
 Assemble an application built on python programming language along applying a real world work framework environment
 - Tracking work in a project management tool, generating design documentation and wikis at Notion
