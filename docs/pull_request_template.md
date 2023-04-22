@@ -23,6 +23,10 @@ Please delete options that are not relevant.
 - {Class.Method} > {Brief Description}
 - {Class.Method} > {Brief Description}
 
+# Install pip packages (place command line to execute - do not forget to add it at Readme.md after PR before merging)
+
+- {pip commandline}
+
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
