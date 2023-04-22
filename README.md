@@ -2,34 +2,39 @@
 Practice project done by BYU Students
 
 
-# OrderAsapCSE111
+# QuickBillGroup
 
 ## Motivation
-Fullfil and complete final project required for CSE 111 course (Programming with Functions) from Applied Technology BS.
+Assemble an application built on python programming language along applying a real world work framework environment
+- Tracking work in a project management tool, generating design documentation and wikis at Notion
+- Applying control version system and rules within in as requiring pull request to protect main branch and following templates suggested
+- Applying OOP pattern design
+- Implementing unit tests
+- Experimenting new dependencies and/or packages
 
 ## Application Objective
-Project consist on a simple simulation of a shopping cart to "print" invoices with a basic graphic interface. Along this CLASSES and UNIT TEST will be implemented.
+Build an application to manage products, customers and orders ending up to generate invoices. Project may be splitted in different stages, most likely following planification below
+- Create the main structure of classes and unit tests
+- Implement save and load of information at least in CSV or TXT files
+- Create graphic interface for each class in order to accomplish as much as possible CRUD for each element (class)
+- Implementation for PDF invoice generation
+- Implement multilanguage for graphic interface
 
 ## Brief Explanation to execute
-Either you execute the file within 'src' subfolder called 'check_by_console.py' or execute the graphic user interphase called 'gui-main.py'.
-After invoices are created will be moved into 'Invoices' subfolder, for the pdf creation unit test will be erased any invoice created by this.
+To be defined
 
 ## Video demo
-[<img src="https://i.imgur.com/MHtrAWW.png" width="50%">](https://www.youtube.com/watch?v=4wzH9saLEC0 "Invoice Generator Video Demo")
+To be defined
 
 ## Installation
-Bear in mind is required to install some dependencies to execute project. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Bear in mind is required to install some dependencies to execute project. Use the package manager [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
 pip install pytest
-pip install Faker
-pip install Dumper
-pip install InvoiceGenerator
 ```
 
-## Knowledge applied
+## Knowledge applied (to be implemented)
 - Classes
-- DAO (pending to be implemented)
 - Unit Test
 - Graphic User Interphace
 - PDF Invoice Generation
