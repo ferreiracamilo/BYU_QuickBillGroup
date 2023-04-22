@@ -41,4 +41,4 @@ pip install pytest
 
 ## Team
 [![LinkedIn](https://img.shields.io/badge/camilo--ferreira-blue?logo=linkedin&link=https://www.linkedin.com/in/camiloferreirafosalba/?locale=en_US)](https://www.linkedin.com/in/camiloferreirafosalba/?locale=en_US)
-[![LinkedIn](https://img.shields.io/badge/camilo--ferreira-blue?logo=linkedin&link=https://www.linkedin.com/in/camiloferreirafosalba/?locale=en_US)](https://www.linkedin.com/in/camiloferreirafosalba/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/fernando--chazarreta-blue?logo=linkedin&link=https://www.linkedin.com/in/fernandochazarreta/)](https://www.linkedin.com/in/fernandochazarreta/)
