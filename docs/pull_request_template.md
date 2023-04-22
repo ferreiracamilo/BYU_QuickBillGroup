@@ -15,8 +15,8 @@ Please delete options that are not relevant.
 
 # What files or classes have been modified/updated/created? (along with a brief description if applies)
 
-- {Add/Remove/Update} {Add Class} - {Brief Description}
-- {Add/Remove/Update} {Add Class} - {Brief Description}
+- {Add/Remove/Update} {Class} > {Brief Description}
+- {Add/Remove/Update} {Class} > {Brief Description}
 
 # What methods have been modified/updated/created? (along with a brief description if applies)
 
