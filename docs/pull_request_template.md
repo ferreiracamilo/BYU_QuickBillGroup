@@ -23,7 +23,7 @@ Please delete options that are not relevant.
 - {Class.Method} > {Brief Description}
 - {Class.Method} > {Brief Description}
 
-# Checklist (NA / X):
+# Checklist:
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
