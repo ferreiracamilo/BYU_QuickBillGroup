@@ -4,13 +4,13 @@ Practice project done by a group of programming enthusiasts
 ## Motivation
 Assemble an application built on python programming language along applying a real world work framework environment
 - Tracking work in a project management tool, generating design documentation and wikis at Notion
-- Applying control version system and rules within in as requiring pull request to protect main branch and following templates suggested
+- Applying control version system and rules within it. E.g: requiring pull request to protect main branch and following suggested templates
 - Applying OOP pattern design
 - Implementing unit tests
 - Experimenting new dependencies and/or packages
-- Improve our english communication skills -team mebers don't share same native language-
+- Improve our english communication skills -team members don't share same native language-
 
-## Application Objective
+## Application Objectives
 Build an application to manage products, customers and orders ending up to generate invoices. Project may be splitted in different stages, most likely following planification below
 - Create the main structure of classes and unit tests
 - Implement save and load of information at least in CSV or TXT files
