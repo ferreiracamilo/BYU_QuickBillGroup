@@ -42,3 +42,4 @@ pip install pytest
 [![LinkedIn](https://img.shields.io/badge/fernando--chazarreta-blue?logo=linkedin&link=https://www.linkedin.com/in/fernandochazarreta/)](https://www.linkedin.com/in/fernandochazarreta/)
 [![LinkedIn](https://img.shields.io/badge/gustavo--bispo-blue?logo=linkedin&link=https://www.linkedin.com/in/gustavo-bispo-b515891bb/)](https://www.linkedin.com/in/gustavo-bispo-b515891bb/)
 [![LinkedIn](https://img.shields.io/badge/marcelo--aguirre-blue?logo=linkedin&link=https://www.linkedin.com/in/marcelo-aguirre-4b01a6184/)](https://www.linkedin.com/in/marcelo-aguirre-4b01a6184/)
+[![LinkedIn](https://img.shields.io/badge/Paulo--Cauás-blue?logo=linkedin&link=https://www.linkedin.com/in/paulo-cau%C3%A1s-878b3823a/)](https://www.linkedin.com/in/paulo-cau%C3%A1s-878b3823a/)
